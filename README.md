@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ Miguel Nogueira ✨
+  👋 Olá, eu sou o Miguel Nogueira 🧑‍💻
 </h1>
 
 <p align="center">
@@ -9,8 +9,8 @@
 ---
 
 ## 🌍 Sobre Mim
+<p 🧠 Nome: Miguel Nogueira>
 
-🧠 Nome: Miguel Nogueira
 📍 Localização: Portugal
 🎓 Estudante de Informática
 💬 Apaixonado por: Resolver problemas | Programar | Aprender coisas novas
@@ -33,7 +33,6 @@
 
 - 🚫 Não bebo café, mas funciono melhor com **código limpo**.
 - 🎮 Programar e jogar é o meu equilíbrio perfeito.
-- 📦 Adoro projetos que envolvem bases de dados e UIs bem feitas.
 - 🧩 Nunca deixo um bug vencer sem lutar 💥
 
 ---
@@ -46,18 +45,6 @@
 
 ---
 
-<details>
-  <summary>📊 Estatísticas GitHub (Clique para expandir)</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=teu-utilizador&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-utilizador&layout=compact&theme=tokyonight" alt="Top languages" />
-  </p>
-</details>
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=160&section=footer" />
 </p>
