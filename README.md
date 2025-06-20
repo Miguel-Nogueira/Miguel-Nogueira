@@ -10,7 +10,6 @@
 
 ## 🌍 Sobre Mim
 
-```txt
 🧠 Nome: Miguel Nogueira
 📍 Localização: Portugal
 🎓 Estudante de Informática
