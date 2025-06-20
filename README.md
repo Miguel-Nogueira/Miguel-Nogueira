@@ -1,19 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=150&section=header&text=Ol%C3%A1,%20eu%20sou%20o%20Miguel%20Nogueira&fontSize=40" alt="Banner Miguel Nogueira" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1,+eu+sou+o+Miguel+Nogueira+%F0%9F%A7%91%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌍 Sobre Mim
+<div align="center" style="background-color:#121212; border-radius:15px; padding:20px; max-width:700px; margin:auto; color:#7F52FF;">
 
-🧠 Nome: Miguel Nogueira  
-📍 Localização: Portugal  
-🎓 Estudante de Informática  
-💬 Apaixonado por: Resolver problemas | Programar | Aprender coisas novas  
+### 🌍 Sobre Mim
+
+```yaml
+Nome: Miguel Nogueira
+Localização: Portugal
+Estudante de Informática
+Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
+```
 
 ---
 
-## 🧩 Skills & Paixões
+### 🧩 Skills & Paixões
 
 <div align="center">
 
@@ -27,63 +31,63 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td align="center" width="220">
-      <a href="https://github.com/teu-utilizador/projeto-veterinario">
-        <img src="https://raw.githubusercontent.com/teu-utilizador/projeto-veterinario/main/assets/logo.png" alt="Projeto Veterinário" width="150" />
-        <br />
-        <b>Sistema Veterinário</b>
-      </a>
-      <p>App em C# com SQL para clínica veterinária.</p>
-      <p>
-        ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) 
-        ![C#](https://img.shields.io/badge/Linguagem-C%23-blue)
-        ![Issues](https://img.shields.io/github/issues/teu-utilizador/projeto-veterinario)
-      </p>
-    </td>
-    <td align="center" width="220">
-      <a href="https://github.com/teu-utilizador/gestao-frota">
-        <img src="https://raw.githubusercontent.com/teu-utilizador/gestao-frota/main/assets/logo.png" alt="Gestão Frota" width="150" />
-        <br />
-        <b>Gestão de Frota</b>
-      </a>
-      <p>Sistema de gestão com WinForms.</p>
-      <p>
-        ![Status](https://img.shields.io/badge/status-estável-brightgreen) 
-        ![C#](https://img.shields.io/badge/Linguagem-C%23-blue)
-        ![Issues](https://img.shields.io/github/issues/teu-utilizador/gestao-frota)
-      </p>
-    </td>
-  </tr>
-</table>
+| Projeto             | Descrição                            | Link                                                       |
+|---------------------|------------------------------------|------------------------------------------------------------|
+| Sistema Veterinário  | App em C# com SQL para clínica     | [GitHub](https://github.com/teu-utilizador/projeto-veterinario) |
+| Gestão de Frota      | Sistema de gestão com WinForms     | [GitHub](https://github.com/teu-utilizador/gestao-frota)          |
 
 ---
 
-## 💡 Curiosidades
+### 💻 Tech Stack
 
-- 🚫 Não bebo café, mas funciono melhor com **código limpo**.  
-- 🎮 Programar e jogar é o meu equilíbrio perfeito.  
-- 🧩 Nunca deixo um bug vencer sem lutar 💥  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=csharp,mysql,dotnet,windows,visualstudio" />
+</div>
 
 ---
 
-## 📫 Contacto
+### 🎯 Conquistas & Stats
 
-| Email                     | 
-|---------------------------|
-| miguel.nogueira@email.com | 
+<details>
+  <summary style="color:#7F52FF; cursor:pointer;">📊 Ver minhas estatísticas GitHub</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=teu-utilizador&show_icons=true&theme=tokyonight" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-utilizador&layout=compact&theme=tokyonight" />
+  </p>
+</details>
+
+---
+
+### 💡 Curiosidades
+
+```markdown
+- 🚫 Não bebo café, mas funciono melhor com código limpo.
+- 🎮 Programar e jogar é o meu equilíbrio perfeito.
+- 🧩 Nunca deixo um bug vencer sem lutar 💥
+```
+
+---
+
+### 📫 Contacto & Redes Sociais
+
+| Email                     | Redes Sociais                                    |
+|---------------------------|-------------------------------------------------|
+| miguel.nogueira@email.com | [LinkedIn](https://linkedin.com/in/teu-perfil) • [GitHub](https://github.com/teu-utilizador) |
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="250" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="280" style="border-radius:15px;"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=7F52FF&height=180&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=7F52FF&height=220&section=footer" />
 </p>
+
+</div>
