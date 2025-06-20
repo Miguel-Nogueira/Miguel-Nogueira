@@ -1,45 +1,39 @@
-<h1 align="center">👋 Olá, eu sou o Miguel Nogueira 🧑‍💻</h1>
-<p align="center"><strong><code>const estado = "sempre a aprender...";</code></strong></p>
+<h1 align="center">✨ Miguel Nogueira ✨</h1>
 
 <p align="center">
-  💻 Estudante de Informática • 🔍 Explorador de Código • 🛠️ Criador de Soluções
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-Programador-blueviolet?style=flat&logo=csharp" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-IDE-purple?style=flat&logo=visualstudio" />
-  <img src="https://img.shields.io/badge/Aluno%20dedicado-100%25-brightgreen" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F52FF&center=true&vCenter=true&width=435&lines=Estudante+de+Inform%C3%A1tica;Apaixonado+por+C%23+e+SQL;Sempre+pronto+para+criar%2C+resolver+e+inovar!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 📌 Sobre Mim
+## 🌍 Sobre Mim
 
-🎓 Sou um jovem estudante da área das Tecnologias de Informação, com especial interesse em desenvolvimento de aplicações e resolução de problemas reais com lógica e criatividade.
+```txt
+🧠 Nome: Miguel Nogueira
+📍 Localização: Portugal
+🎓 Estudante de Informática
+💬 Gosto de: Resolver problemas | Programar | Aprender coisas novas
+🛠️ Área favorita: Desenvolvimento de aplicações com C# e SQL
+“A tecnologia é a arte de transformar lógica em magia.” 🪄
 
-💡 Gosto de transformar ideias em código funcional, com foco em simplicidade, organização e uma boa experiência para o utilizador.
+🧩 Um pouco de mim em palavras-chave:
+css
+Copiar
+Editar
+💻 Code     🎯 Foco     🔐 Lógica     ⚙️ Sistemas
+📚 Aprendizagem contínua     💡 Criatividade     🎨 Simplicidade visual
+📬 Contacto
+📫 Email: teuemail@exemplo.com
+📎 Em breve: portfólio pessoal com projetos e devlogs!
 
-> “A lógica é a chave. O código é a ponte. A solução é o destino.” 🚀
+💡 Curiosidades Rápidas
+🚫 Não bebo café... mas funciono melhor com código limpo.
 
----
+🎮 Programar e jogar = equilíbrio perfeito.
 
-## 📫 Contacto
+📦 Adoro projetos que envolvam bases de dados e UI bem feitas.
 
-✉️ **Email:** miguellnogueira0307@gmail.com
+🧩 Nunca deixo um bug vencer sem lutar 💥
 
----
-
-## ⚡ Curiosidade
-
-🧃 Sou um programador que **não bebe café** (mas nunca recusa um bom desafio de código).  
-🧩 Fascinado por lógica, interfaces limpas e sistemas bem estruturados.
-
----
-
-<p align="center">
-  Feito com ❤️ por <strong>Miguel Nogueira</strong> — Obrigado pela visita!
-</p>
-
-<p align="center">
-  ⭐ Não te esqueças de deixar uma estrela nos projetos que gostares!
-</p>
+<details> <summary>📦 Estatísticas GitHub (Clica para ver)</summary> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=teu-utilizador&show_icons=true&theme=tokyonight" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-utilizador&layout=compact&theme=tokyonight" /> </p> </details>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=7F52FF&height=120&section=footer" /> </p> ```
