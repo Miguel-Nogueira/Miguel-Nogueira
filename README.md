@@ -59,7 +59,7 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="600" alt="Animated Footer" />
+  <img src="https://i.gifer.com/origin/8f/8f1e62e01b35db4ea6724b08e5ea2927.gif" width="700" alt="Footer Line Animation" />
 </p>
 
 </div>
