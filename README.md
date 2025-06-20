@@ -59,7 +59,7 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=7F52FF&height=220&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=ribbon&color=7F52FF&height=220&section=footer" />
 </p>
 
 </div>
