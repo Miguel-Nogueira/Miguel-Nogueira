@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1,+eu+sou+o+Miguel+Nogueira" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1,+eu+sou+o+Miguel+Nogueira+%F0%9F%A7%91%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,15 +8,22 @@
 
 ### 🌍 Sobre Mim
 
-<pre style="display:inline-block; text-align:left;">
+<table align="center">
+  <tr>
+    <td>
+
+```yaml
 Nome: Miguel Nogueira
 Localização: Portugal
 Estudante de Informática
 Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
-</pre>
+```
 
-</div>
+    </td>
+  </tr>
+</table>
 
+---
 
 ### 🧩 Skills & Paixões
 
@@ -32,11 +39,34 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 
 ---
 
+### 🚀 Projetos em Destaque
+
+| Projeto             | Descrição                            | Link                                                       |
+|---------------------|------------------------------------|------------------------------------------------------------|
+| Sistema Veterinário  | App em C# com SQL para clínica     | [GitHub](https://github.com/teu-utilizador/projeto-veterinario) |
+| Gestão de Frota      | Sistema de gestão com WinForms     | [GitHub](https://github.com/teu-utilizador/gestao-frota)          |
+
+---
+
 ### 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=csharp,mysql,dotnet,windows,visualstudio" />
 </div>
+
+---
+
+### 🎯 Conquistas & Stats
+
+<details>
+  <summary style="color:#7F52FF; cursor:pointer;">📊 Ver minhas estatísticas GitHub</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=teu-utilizador&show_icons=true&theme=tokyonight" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-utilizador&layout=compact&theme=tokyonight" />
+  </p>
+</details>
 
 ---
 
@@ -52,9 +82,15 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 
 ### 📫 Contacto & Redes Sociais
 
-| Email                     | 
-|---------------------------|
-| miguel.nogueira@email.com |
+| Email                     | Redes Sociais                                    |
+|---------------------------|-------------------------------------------------|
+| miguel.nogueira@email.com | [LinkedIn](https://linkedin.com/in/teu-perfil) • [GitHub](https://github.com/teu-utilizador) |
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="280" style="border-radius:15px;"/>
+</p>
 
 ---
 
