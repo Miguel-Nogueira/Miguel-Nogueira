@@ -39,34 +39,11 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 
 ---
 
-### 🚀 Projetos em Destaque
-
-| Projeto             | Descrição                            | Link                                                       |
-|---------------------|------------------------------------|------------------------------------------------------------|
-| Sistema Veterinário  | App em C# com SQL para clínica     | [GitHub](https://github.com/teu-utilizador/projeto-veterinario) |
-| Gestão de Frota      | Sistema de gestão com WinForms     | [GitHub](https://github.com/teu-utilizador/gestao-frota)          |
-
----
-
 ### 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=csharp,mysql,dotnet,windows,visualstudio" />
 </div>
-
----
-
-### 🎯 Conquistas & Stats
-
-<details>
-  <summary style="color:#7F52FF; cursor:pointer;">📊 Ver minhas estatísticas GitHub</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=teu-utilizador&show_icons=true&theme=tokyonight" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-utilizador&layout=compact&theme=tokyonight" />
-  </p>
-</details>
 
 ---
 
@@ -82,9 +59,9 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 
 ### 📫 Contacto & Redes Sociais
 
-| Email                     | Redes Sociais                                    |
-|---------------------------|-------------------------------------------------|
-| miguel.nogueira@email.com | [LinkedIn](https://linkedin.com/in/teu-perfil) • [GitHub](https://github.com/teu-utilizador) |
+| Email                     | 
+|---------------------------|
+| miguel.nogueira@email.com | 
 
 ---
 
