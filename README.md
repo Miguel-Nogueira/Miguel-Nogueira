@@ -1,4 +1,9 @@
-<h1 align="center">👋 Olá, eu sou o Miguel Nogueira</h1>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    👋 Olá, eu sou o Miguel Nogueira
+  </marquee>
+</p>
+
 <p align="center">💻 Estudante de Informática | 👨‍💻 Apaixonado por resolver problemas com código</p>
 
 <p align="center">
@@ -29,14 +34,4 @@
 ## ⚡ Curiosidade
 
 🧃 Sou um programador que **prefere sumo a café** (mas nunca recusa um bom desafio de código).  
-🧩 Fascinado por lógica, interfaces limpas e sistemas bem estruturados.
-
----
-
-<p align="center">
-  Feito com ❤️ por <strong>Miguel Nogueira</strong> — Obrigado pela visita!
-</p>
-
-<p align="center">
-  ⭐ Não te esqueças de deixar uma estrela nos projetos que gostares!
-</p>
+🧩 Fascinado por lógica, interfaces limpas e sistemas be
