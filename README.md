@@ -8,14 +8,15 @@
 
 ### 🌍 Sobre Mim
 
-```yaml
+<pre style="display:inline-block; text-align:left;">
 Nome: Miguel Nogueira
 Localização: Portugal
 Estudante de Informática
 Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
-```
+</pre>
 
----
+</div>
+
 
 ### 🧩 Skills & Paixões
 
@@ -36,20 +37,6 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 <div align="center">
   <img src="https://skillicons.dev/icons?i=csharp,mysql,dotnet,windows,visualstudio" />
 </div>
-
----
-
-### 🎯 Conquistas & Stats
-
-<details>
-  <summary style="color:#7F52FF; cursor:pointer;">📊 Ver minhas estatísticas GitHub</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=teu-utilizador&show_icons=true&theme=tokyonight" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-utilizador&layout=compact&theme=tokyonight" />
-  </p>
-</details>
 
 ---
 
