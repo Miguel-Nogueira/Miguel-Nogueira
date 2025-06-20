@@ -1,13 +1,13 @@
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    👋 Olá, eu sou o Miguel Nogueira
-  </marquee>
-</p>
+<h1 align="center">👋 Olá, eu sou o Miguel Nogueira 🧑‍💻</h1>
+<p align="center"><strong><code>const estado = "sempre a aprender...";</code></strong></p>
 
-<p align="center">💻 Estudante de Informática | 👨‍💻 Apaixonado por resolver problemas com código</p>
+<p align="center">
+  💻 Estudante de Informática • 🔍 Explorador de Código • 🛠️ Criador de Soluções
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Programador-blueviolet?style=flat&logo=csharp" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Utilizador-red?style=flat&logo=microsoftsqlserver" />
   <img src="https://img.shields.io/badge/Visual%20Studio-IDE-purple?style=flat&logo=visualstudio" />
   <img src="https://img.shields.io/badge/Aluno%20dedicado-100%25-brightgreen" />
 </p>
@@ -33,4 +33,14 @@
 ## ⚡ Curiosidade
 
 🧃 Sou um programador que **prefere sumo a café** (mas nunca recusa um bom desafio de código).  
-🧩 Fascinado por lógica, interfaces limpas e sistemas be
+🧩 Fascinado por lógica, interfaces limpas e sistemas bem estruturados.
+
+---
+
+<p align="center">
+  Feito com ❤️ por <strong>Miguel Nogueira</strong> — Obrigado pela visita!
+</p>
+
+<p align="center">
+  ⭐ Não te esqueças de deixar uma estrela nos projetos que gostares!
+</p>
