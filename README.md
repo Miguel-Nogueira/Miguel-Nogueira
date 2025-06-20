@@ -25,13 +25,13 @@
 
 ## 📫 Contacto
 
-✉️ **Email:** teuemail@exemplo.com
+✉️ **Email:** miguellnogueira0307@gmail.com
 
 ---
 
 ## ⚡ Curiosidade
 
-🧃 Sou um programador que **prefere sumo a café** (mas nunca recusa um bom desafio de código).  
+🧃 Sou um programador que **não bebe café** (mas nunca recusa um bom desafio de código).  
 🧩 Fascinado por lógica, interfaces limpas e sistemas bem estruturados.
 
 ---
