@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Programador-blueviolet?style=flat&logo=csharp" />
-  <img src="https://img.shields.io/badge/SQL%20Server-Utilizador-red?style=flat&logo=microsoftsqlserver" />
   <img src="https://img.shields.io/badge/Visual%20Studio-IDE-purple?style=flat&logo=visualstudio" />
   <img src="https://img.shields.io/badge/Aluno%20dedicado-100%25-brightgreen" />
 </p>
