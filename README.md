@@ -66,7 +66,7 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 ---
 
 <p align="center">
-  <img src="://media.giphy.com/mediahttps/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding GIF" width="280" style="border-radius:15px;"/>
+  <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" height="160" width="1040" alt="GitHub" class="my-1.5 h-full max-h-40 w-full object-cover"/>
 </p>
 
 ---
