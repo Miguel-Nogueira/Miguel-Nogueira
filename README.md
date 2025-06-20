@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1,+eu+sou+o+Miguel+Nogueira+%F0%9F%A7%91%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Ol%C3%A1,+eu+sou+o+Miguel+Nogueira" alt="Typing SVG" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=ribbon&color=7F52FF&height=220&section=footer" />
+  <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="600" alt="Animated Footer" />
 </p>
 
 </div>
