@@ -69,6 +69,4 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
   <img src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" height="160" width="1040" alt="GitHub" class="my-1.5 h-full max-h-40 w-full object-cover"/>
 </p>
 
----
-
 </div>
