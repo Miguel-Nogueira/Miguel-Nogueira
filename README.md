@@ -25,7 +25,7 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 
 ---
 
-### 🧩 Skills & Paixões
+### 🧩 Skills
 
 <div align="center">
 
