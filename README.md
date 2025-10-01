@@ -61,7 +61,7 @@ Apaixonado por: Resolver problemas, Programar, Aprender coisas novas
 
 | Email                     | 
 |---------------------------|
-| miguell.castronogueira@email.com | 
+| miguell.castronogueira@gmail.com | 
 
 ---
 
